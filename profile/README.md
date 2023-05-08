@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Us:
 🔭 Hello there! I'm a web developer who is passionate about creating beautiful and functional web applications.<br>👯 I enjoy tackling challenging problems and finding elegant solutions to them. <br>🤝 I'm always looking for opportunities to collaborate with other developers and learn from them. So, if you're working on an exciting project and need some help, feel free to reach out to me!<br>🌱 I'm currently focusing on improving my skills in JavaScript, React JS, Nest JS, and Node JS<br>💬 Feel free to ask me anything about web development or just drop by to say hello!<br>⚡ Fun fact - In addition to coding, I also love playing the guitar and traveling to new places.
 
 
